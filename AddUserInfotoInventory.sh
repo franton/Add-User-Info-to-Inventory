@@ -2,7 +2,7 @@
 
 # Add user details to specific casper computer record
 
-# Author      : r.purves@arts.ac.uk
+# Author      : contact@richard-purves.com
 
 # Version 1.0 : 1-11-2013 - Initial Version
 # Version 1.1 : 6-01-2014 - Now interrogates AD directly instead of cached user data
